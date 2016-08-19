@@ -5,5 +5,6 @@ public class test {
 		System.out.println("remote 01");
 		System.out.println("local 02");
 		System.out.println("local 02");
+		cSystem.out.prSystem.out.println("remote 03");
 	}
 }
